@@ -3,8 +3,8 @@
 
 <!-- **dnanseldev/dnanseldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on frameworks like NodeJS and React
+- 🔭 I’m currently working on frameworks like NodeJS, NestJS, React and Angular
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me: dnansel@hotmail.com
+- 📫 How to reach me: dnansel.dev@gmail.com
 - 😄 Pronouns: ...He/Him
 
