@@ -8,3 +8,4 @@
 - 📫 How to reach me: dnansel.dev@gmail.com
 - 😄 Pronouns: ...He/Him
 
+# This is not a portfolio hub, instead it's more a lab for practicing and experimenting solutions and new trends technolgies.
